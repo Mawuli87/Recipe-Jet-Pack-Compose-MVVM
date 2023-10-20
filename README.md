@@ -4,6 +4,7 @@ This is Jet pack compose project
 <img src = "screens/Screenshot_20231020_032700_RecipeMVVMCompose.jpg" height="500">
 <img src = "screens/Screenshot_20231020_032713_RecipeMVVMCompose.jpg" height="500">
 <img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="500">
+<img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="500">
 
 
 # Main Features
@@ -36,7 +37,7 @@ This is Jet pack compose project
 
 
 # References
-1. https://github.com/android/compose-samples
+
 1. https://developer.android.com/jetpack/compose
 1. https://developer.android.com/jetpack/compose/state
 1. Color system
