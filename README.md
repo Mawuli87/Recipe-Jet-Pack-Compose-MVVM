@@ -1,10 +1,11 @@
 # What is this project?
 This is Jet pack compose project
 
-<img src = "screens/Screenshot_20231020_032700_RecipeMVVMCompose.jpg" height="500">
-<img src = "screens/Screenshot_20231020_032713_RecipeMVVMCompose.jpg" height="500">
-<img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="500">
-<img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="500">
+<img src = "screens/Screenshot_20231020_032700_RecipeMVVMCompose.jpg" height="400">
+<img src = "screens/Screenshot_20231020_032713_RecipeMVVMCompose.jpg" height="400">
+<img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="400">
+<img src = "screens/Screenshot_20231020_032738_RecipeMVVMCompose.jpg" height="400">
+
 
 
 # Main Features
